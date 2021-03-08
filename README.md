@@ -23,13 +23,13 @@ Also there are multiple bid managers working with a SBU Head and vice versa. Bas
 ## Data Dictionary
 
 Column Name	Description
-- Client Category	Industry in which the client works
-- Solution Type	The solution group the client requires
-- Deal Date	The date the opportunity was created
-- Sector	The sector for which the solution is to be provided
-- Location	Client location
-- VP Name	Sr. Manager or VP whi is dealing with the client
-- Manager Name	Manager of the team working on the project
-- Deal Cost	The initial cost of the deal
-- Deal Status Code	Final status of the deal(won/lost)
-![image](https://user-images.githubusercontent.com/72372136/110292730-ac658380-8013-11eb-8a3d-c303ecab7c6c.png)
+- Client: Category	Industry in which the client works
+- Solution: Type	The solution group the client requires
+- Deal Date:	The date the opportunity was created
+- Sector: The sector for which the solution is to be provided
+- Location: Client location
+- VP Name	Sr. Manager or VP: which is dealing with the client
+- Manager Name: Manager of the team working on the project
+- Deal Cost: The initial cost of the deal
+- Deal Status Code: Final status of the deal(won/lost)
+
